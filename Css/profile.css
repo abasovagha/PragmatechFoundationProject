@@ -1,0 +1,24 @@
+h1{
+
+    text-align: center;
+    color: white;
+    
+}
+.profile-container{
+    background-color: cornflowerblue;
+    border-radius: 25px;
+    text-align: center;
+    border: 1px solid black;
+    width: 500px;
+    margin: 10px 50% 10px 50%;
+    transform: translate(-50%);
+}
+.sekil{
+    font-size: 60px;
+}
+.xett{
+    color:white;
+}
+p{
+    color: white;
+}
